@@ -1,0 +1,18 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Estilo da seção Hero */
+.jumbotron {
+    background-image: url('../img/hero-bg.jpg');
+    background-size: cover;
+    color: white;
+    padding: 5rem 2rem;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+}
